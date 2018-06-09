@@ -5,7 +5,7 @@ def prime?(number)
     puts num
     puts number % num
     if number % num == 0
-      false
+      return false
     end
   end
 end
