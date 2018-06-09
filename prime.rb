@@ -6,6 +6,8 @@ def prime?(number)
     puts number % num
     if number % num == 0
       return false
+    else
+      return true
     end
   end
 end
