@@ -10,3 +10,5 @@ def prime?(number)
     end
   end
 end
+
+prime?(5)
